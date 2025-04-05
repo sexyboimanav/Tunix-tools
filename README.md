@@ -1,7 +1,23 @@
-# Tunix-tools
-➡️ Address Generator You can use address in inbuilt stripe sites  
-➡️ You can change your user agent in case of user agent blocked by some sites
-➡️ Temp-mail generator  you can generate temp-mail from the extension and get mails on the extension
-➡️ You can save your favorite bins and can get access to bins from the extension 
-➡️ You can do bin lookup on extension  and you can generate cards from bin on the extension 
-➡️ Affiliate Detector No need to search for  affiliate on the website just paste the website URL it will directly give u dashboard link
+# Tunix Tools
+
+A powerful extension with multiple utilities for streamlined workflows.
+
+## Features
+
+- **Address Generator**  
+  Generate addresses directly usable in built-in Stripe sites.
+
+- **User Agent Switcher**  
+  Change your user agent easily when sites block specific agents.
+
+- **Temp-Mail Generator**  
+  Create temporary email addresses and receive emails within the extension.
+
+- **BIN Management**  
+  Save your favorite BINs and access them anytime from the extension.
+
+- **BIN Lookup & Card Generator**  
+  Perform BIN lookups and generate cards directly from BINs within the extension.
+
+- **Affiliate Detector**  
+  Simply paste a website URL to instantly retrieve its dashboard link—no manual affiliate searching required.
